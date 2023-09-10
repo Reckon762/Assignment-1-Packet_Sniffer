@@ -35,3 +35,12 @@ Thus, we have used the 1.pcap file for this part.
 **c.** I have a TCP checksum “0x0ac4”. I have instructions in my path. : **GET /your-password-is-somewhere-in--this-stream HTTP/1.1** & **GET / HTTP/1.1 Origin: www.cs433.com User-Agent: PASSWORD-Berlin** <br>
 **d.** My device has an IP Address “131.144.126.118”. Sum of my connection ports will lead you to a person. : **The person you are looking for is Rabindranath Tagore** <br>
 **e.** I come from localhost, I requested a milkshake. Find my flavour. : **flavor- Strawberry** <br>
+
+
+### Part III
+1. Open the terminal and run the Python script **partIII.py**. Also, keep doing the normal network activities so the that program can capture the packets.
+2. After 30 seconds, the program will stop capturing the packets and a prompt to enter the port number.
+3. Look from the packet captured previously for the port numbers.
+4. Enter the port number and hit enter.
+5. If the activity is still going on that port, a process ID will be generated corresponding to that port.
+6. The prompt will again ask for port number to enter and will do so until CTRL+C is executed to terminate the program.
