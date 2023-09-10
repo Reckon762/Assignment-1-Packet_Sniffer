@@ -19,6 +19,9 @@ Now, for obtaining the Reverse DNS of IP addresses.
 1. Run the Python script **partI_reversedns.py** using the command **sudo python partI_reversedns.py** to get the hostname of all IPs present in the unique flow.
 2. All the hostnames along the IPs get saved in the **PartI_reversedns.csv** file.
 
+All the hostnames and their IPs can be seen from the CSV file. However below are the 5 hostnames with the IPs.
+1. 
+
 
 ### Part II
 The sum of our roll number is 144 + 93 = 237 and 237 mod 4 gives 1. 
