@@ -32,6 +32,6 @@ Thus, we have used the 1.pcap file for this part.
 **Answers:** <br>
 **a.** There is a Flag in a TCP Packet. Identify the flag. : **Romeo** <br>
 **b.** My username is secret, Identify my secret. : **I find a way, not a excuse.** <br>
-**c.** I have a TCP checksum “0x0ac4”. I have instructions in my path. : **
+**c.** I have a TCP checksum “0x0ac4”. I have instructions in my path. : **GET /your-password-is-somewhere-in--this-stream HTTP/1.1** & **GET / HTTP/1.1 Origin: www.cs433.com User-Agent: PASSWORD-Berlin** <br>
 **d.** My device has an IP Address “131.144.126.118”. Sum of my connection ports will lead you to a person. : **The person you are looking for is Rabindranath Tagore** <br>
-**e.** I come from localhost, I requested a milkshake. Find my flavour. : **
+**e.** I come from localhost, I requested a milkshake. Find my flavour. : **flavor- Strawberry** <br>
