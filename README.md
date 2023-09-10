@@ -1,2 +1,2 @@
-# Assignment-1-Packet_Sniffer
+# PacketSniffer
 Computer Network Assignment-1
