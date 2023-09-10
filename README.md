@@ -20,7 +20,8 @@ Now, for obtaining the Reverse DNS of IP addresses.
 2. All the hostnames along the IPs get saved in the **PartI_reversedns.csv** file.
 
 All the hostnames and their IPs can be seen from the CSV file. However below are the 5 hostnames with the IPs.
-1. 
+1. 18.164.246.94	server-18-164-246-94.del54.r.cloudfront.net
+2. 
 
 
 ### Part II
