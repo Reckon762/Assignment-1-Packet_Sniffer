@@ -22,7 +22,8 @@ Now, for obtaining the Reverse DNS of IP addresses.
 All the hostnames and their IPs can be seen from the CSV file. However below are the 5 hostnames with the IPs.
 1. 18.164.246.94	server-18-164-246-94.del54.r.cloudfront.net
 2. 23.32.177.81	a23-32-177-81.deploy.static.akamaitechnologies.com
-
+3. 44.215.135.131	ec2-44-215-135-131.compute-1.amazonaws.com
+4. 
 
 ### Part II
 The sum of our roll number is 144 + 93 = 237 and 237 mod 4 gives 1. 
