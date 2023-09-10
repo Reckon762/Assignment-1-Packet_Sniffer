@@ -30,8 +30,8 @@ Thus, we have used the 1.pcap file for this part.
 4. The Python script partII.py stores all the packet payload in **PartII_allparts.csv** as per the requirements.
    
 Answers:
-a. There is a Flag in a TCP Packet. Identify the flag. : **Romeo**
+a. There is a Flag in a TCP Packet. Identify the flag. : **Romeo** "\n"
 b. My username is secret, Identify my secret. : **I find a way, not a excuse.**
 c. I have a TCP checksum “0x0ac4”. I have instructions in my path.
-d. My device has an IP Address “131.144.126.118”. Sum of my connection ports will lead you to a person.
+d. My device has an IP Address “131.144.126.118”. Sum of my connection ports will lead you to a person. : **The person you are looking for is Rabindranath Tagore**
 e. I come from localhost, I requested a milkshake. Find my flavour. :
