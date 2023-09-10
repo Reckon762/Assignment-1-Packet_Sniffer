@@ -20,11 +20,15 @@ Now, for obtaining the Reverse DNS of IP addresses.
 2. All the hostnames along the IPs get saved in the **PartI_reversedns.csv** file.
 
 
-### Part III
+### Part II
 The sum of our roll number is 144 + 93 = 237 and 237 mod 4 gives 1. 
 Thus, we have used the 1.pcap file for this part.
 
 1. Open 2 terminals and run the Python script **partII.py** in one terminal (use command: **sudo python PartII.py**)
 2. Simultaneously run the command **sudo tcpreplay -i --mbps=1 -v 1.pcap** in other terminal. 
 3. The packets replayed using the tcpreplay command are captured by the raw socket.
-4. 4. The Python script partII.py stores all the packet payload in **PartII_allparts.csv** in .
+4. The Python script partII.py stores all the packet payload in **PartII_allparts.csv** as per the requirements.
+   
+Answers:
+a. There is a Flag in a TCP Packet. Identify the flag. : **Romeo**
+b. My username is secret, Identify my secret. : **
